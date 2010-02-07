@@ -13,3 +13,9 @@ GET("/jimpick.manifest", function() {
   return template("jimpick.manifest");
 });
 
+GET("/apple-touch-icon-precomposed.png", function() {
+  this.response.mime = "image/png";
+  return system.filesystem.get(
+    "public/images/jpick-57x57.png");
+});
+

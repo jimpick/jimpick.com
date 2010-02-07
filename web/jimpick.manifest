@@ -1,9 +1,9 @@
 CACHE MANIFEST
-# jimpick manifest, version 0.0.8
+# jimpick manifest, version 0.0.10
  
 # HTML
 /
-/contact
+contact
  
 # CSS
 #css/jimpick.css
@@ -13,7 +13,7 @@ CACHE MANIFEST
 #js/jimpick.min.js
  
 # IMAGES
-images/apple-touch-icon-precomposed.png
+apple-touch-icon-precomposed.png
 images/jpick-300x240.jpg
 images/under-construction.gif
  
