@@ -8,6 +8,10 @@ GET(/^\/contact\/?/, function() {
   return template("contact.html");
 });
 
+GET(/^\/joyent\/?/, function() {
+  return template("joyent.html");
+});
+
 GET("/jimpick.manifest", function() {
   this.response.mime = "text/cache-manifest";
   return template("jimpick.manifest");
