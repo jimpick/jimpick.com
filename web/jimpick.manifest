@@ -1,9 +1,10 @@
 CACHE MANIFEST
-# jimpick manifest, version 0.0.12
+# jimpick manifest, version 0.0.13
  
 # HTML
 /
 contact
+joyent
  
 # CSS
 #css/jimpick.css
