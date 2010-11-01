@@ -1,5 +1,5 @@
 CACHE MANIFEST
-# jimpick manifest, version 0.0.16
+# jimpick manifest, version 0.0.17
  
 # HTML
 /
@@ -23,4 +23,5 @@ images/under-construction.gif
 
 NETWORK:
 joyent
+/joyent
 
