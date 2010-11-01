@@ -1,10 +1,9 @@
 CACHE MANIFEST
-# jimpick manifest, version 0.0.15
+# jimpick manifest, version 0.0.16
  
 # HTML
 /
 contact
-joyent
  
 # CSS
 #css/jimpick.css
@@ -22,4 +21,6 @@ images/under-construction.gif
 #NETWORK:
 #http://jimpick.com/api
 
+NETWORK:
+joyent
 
