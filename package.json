@@ -1,0 +1,16 @@
+{
+  "name": "jimpick.com",
+  "subdomain": "www.jimpick.com",
+  "scripts": {
+    "start": "server.js"
+  },
+  "version": "0.0.0-1",
+  "engines": {
+    "node": "0.8.x"
+  }
+, "dependencies": {
+    "express": ">= 3.0.0rc4"
+  , "mime": ">= 1.2.7"
+  , "ejs": ">= 0.8.3"
+  }
+}
