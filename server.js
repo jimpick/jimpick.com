@@ -4,6 +4,7 @@ var mime = require('mime')
 
 app.set('view engine', 'ejs')
 
+app.use(express.logger('short'))
 app.use(express.static(__dirname + '/public'))
 
 mime.define({'text/cache-manifest': ['manifest']})
