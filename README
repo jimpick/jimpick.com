@@ -3,8 +3,5 @@ jimpick.com
 
 This is the source code to my vanity website.
 
-This was a Joyent Smart Platform based site, but I have converted it
-to a Node.js site (using Express) for Joyent's no.de service.
-
 Released into the public domain.
 
